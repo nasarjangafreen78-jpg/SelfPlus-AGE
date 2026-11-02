@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://selfplusageplusreview.vercel.app/sitemap.xml
